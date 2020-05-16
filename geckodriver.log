@@ -1,0 +1,603 @@
+1587635710420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU3rOYf"
+1587635716474	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587635717844	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587635717848	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587635731308	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587635735373	Marionette	INFO	Listening on port 35005
+1587635735497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587635735698	Marionette	DEBUG	[2147483649] Frame script loaded
+1587635735889	Marionette	DEBUG	[2147483649] Frame script registered
+1587635736334	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587635738500	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1587635742594	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587635748290	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587635753329	Marionette	INFO	Stopped listening on port 35005
+1587636051333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ksdpA"
+1587636053927	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587636054447	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587636054450	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587636059647	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587636061241	Marionette	INFO	Listening on port 43717
+1587636061372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587636061735	Marionette	DEBUG	[2147483649] Frame script loaded
+1587636061752	Marionette	DEBUG	[2147483649] Frame script registered
+1587636062069	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587636072750	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587636077769	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587636089954	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587636252387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegKj6mj"
+1587636255022	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587636255662	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587636255668	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587636273190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC9c3SM"
+1587636275152	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587636275802	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587636275806	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587636283681	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587636287996	Marionette	INFO	Listening on port 36379
+1587636288045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587636288358	Marionette	DEBUG	[2147483649] Frame script loaded
+1587636289761	Marionette	DEBUG	[2147483649] Frame script registered
+1587636289917	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587636307250	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: https://start.fedoraproject.org/static/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://start.fedoraproject.org/, line 291: ReferenceError: $ is not defined
+1587636312348	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587636337050	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+console.error: "_refreshProcess of computed view cancelled"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1587636471640	Marionette	DEBUG	[2147483653] Frame script loaded
+1587636471747	Marionette	DEBUG	[2147483653] Frame script registered
+JavaScript error: chrome://marionette/content/driver.js, line 1294: TypeError: WeakMap key must be an object, got undefined
+1587636472863	Marionette	ERROR	[40] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+1587636477077	Marionette	DEBUG	[6442450948] Frame script loaded
+1587636477127	Marionette	ERROR	[6442450948] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+1587636477413	Marionette	DEBUG	[6442450950] Frame script loaded
+1587636477505	Marionette	ERROR	[6442450950] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+console.error: "_refreshProcess of computed view cancelled"
+
+###!!! [Parent][DispatchAsyncMessage] Error: PQuotaUsageRequest::Msg_Cancel Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1587636739540	Marionette	INFO	Stopped listening on port 43717
+1587636846333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8vzWSM"
+1587636853298	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587636854404	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587636854408	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587636863622	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587636865889	Marionette	INFO	Listening on port 38137
+1587636866823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587636867021	Marionette	DEBUG	[2147483649] Frame script loaded
+1587636867037	Marionette	DEBUG	[2147483649] Frame script registered
+1587636867133	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587636869648	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587636873368	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587636879649	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+console.error: "_refreshProcess of computed view cancelled"
+1587637020403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletAkG9B"
+1587637021423	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587637021958	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587637021962	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587637026867	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587637027915	Marionette	INFO	Listening on port 37811
+1587637028013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587637028295	Marionette	DEBUG	[2147483649] Frame script loaded
+1587637028365	Marionette	DEBUG	[2147483649] Frame script registered
+1587637028691	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587637033132	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587637036858	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587637042556	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587637043097	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587637048137	Marionette	INFO	Stopped listening on port 37811
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1587637391278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTw0i1h"
+1587637392307	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587637392846	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587637392850	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587637397752	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587637399981	Marionette	INFO	Listening on port 34155
+1587637400093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587637400307	Marionette	DEBUG	[2147483649] Frame script loaded
+1587637400390	Marionette	DEBUG	[2147483649] Frame script registered
+1587637400833	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587637403474	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587637406800	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587637411633	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587637415241	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587637415270	Marionette	INFO	Stopped listening on port 34155
+1587638306480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewz6FTS"
+1587638310889	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587638312045	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587638312049	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587638320981	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587638322721	Marionette	INFO	Listening on port 33293
+1587638322843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587638323209	Marionette	DEBUG	[2147483649] Frame script loaded
+1587638323270	Marionette	DEBUG	[2147483649] Frame script registered
+1587638324446	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587638328755	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587638332799	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587638338298	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587638341811	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587638341831	Marionette	INFO	Stopped listening on port 33293
+1587638719798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOKr0Cb"
+1587638720982	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587638721550	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587638721554	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587638727563	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587638730170	Marionette	INFO	Listening on port 46787
+1587638730248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587638730487	Marionette	DEBUG	[2147483649] Frame script loaded
+1587638730495	Marionette	DEBUG	[2147483649] Frame script registered
+1587638730660	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587638733241	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587638739766	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1587638748595	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587638752114	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587638752143	Marionette	INFO	Stopped listening on port 46787
+[Parent 21282, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /builddir/build/BUILD/firefox-62.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 21282, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-62.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1587647285904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3HQcu2"
+1587647292036	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587647293261	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587647293266	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587647301885	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587647303476	Marionette	INFO	Listening on port 44813
+1587647303626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587647303924	Marionette	DEBUG	[2147483649] Frame script loaded
+1587647303947	Marionette	DEBUG	[2147483649] Frame script registered
+1587647304813	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587647306805	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587647310056	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587647314788	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587647318530	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587647318554	Marionette	INFO	Stopped listening on port 44813
+1587647954016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYF7OuU"
+1587647955336	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587647956036	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587647956040	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587647962230	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587647964232	Marionette	INFO	Listening on port 32873
+1587647964307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587647964637	Marionette	DEBUG	[2147483649] Frame script loaded
+1587647964664	Marionette	DEBUG	[2147483649] Frame script registered
+1587647964826	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587647967277	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587647973355	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587647977667	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587647981250	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587647981273	Marionette	INFO	Stopped listening on port 32873
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 26361, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /builddir/build/BUILD/firefox-62.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 26361, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /builddir/build/BUILD/firefox-62.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1587648031974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile135zMb"
+1587648033237	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587648033462	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1587648033466	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1587648038017	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1587648039766	Marionette	INFO	Listening on port 43831
+1587648039956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587648040180	Marionette	DEBUG	[2147483649] Frame script loaded
+1587648040199	Marionette	DEBUG	[2147483649] Frame script registered
+1587648042774	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1587648045396	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1587648045398	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1587648045459	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for view-source:https://ip4.seeip.org/geoip
+1587648045665	Marionette	DEBUG	[2147483649] Received DOM event pageshow for view-source:https://ip4.seeip.org/geoip
+1587648045963	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for view-source:https://ip4.seeip.org/geoip
+1587648048846	Marionette	DEBUG	[2147483649] Received DOM event pagehide for view-source:https://ip4.seeip.org/geoip
+1587648056447	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://isitdownorjust.me/instagram-com/
+1587648066379	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1587648114280	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://isitdownorjust.me/instagram-com/
+1587648116910	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://isitdownorjust.me/instagram-com/
+1587648118039	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://isitdownorjust.me/instagram-com/
+1587648118062	Marionette	DEBUG	[2147483649] Received DOM event unload for https://isitdownorjust.me/instagram-com/
+1587648118380	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1587648118386	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1587648118400	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1587648118411	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1587648118413	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1587648118416	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1587648118422	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1587648118429	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1587648118432	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1587648118434	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1587648118436	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1587648118439	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1587648121667	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587648124527	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587648152970	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/accounts/onetap/?next=%2F
+1587648154467	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/accounts/onetap/?next=%2F
+1587648154497	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/accounts/onetap/?next=%2F
+1587648155425	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1587648165592	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1587648166068	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1587648167224	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1587648167327	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1587648168116	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/official_bontus/
+1587648178630	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/official_bontus/
+1587648189330	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/official_bontus/
+1587648192340	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/official_bontus/
+1587648192370	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/official_bontus/
+1587648193087	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/tags/python3/
+1587648203233	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/explore/tags/python3/
+1587648217806	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/explore/tags/python3/
+1587648218201	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/explore/tags/python3/
+1587648218235	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/explore/tags/python3/
+1587648218884	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648221902	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648224862	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648226211	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648226248	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648226961	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/programmerplus/
+1587648235048	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/programmerplus/
+1587648263038	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/programmerplus/
+1587648263473	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/programmerplus/
+1587648263493	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/programmerplus/
+1587648264218	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648267888	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648273004	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587648276220	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648277272	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648277314	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648281022	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648287681	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648289411	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648289818	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648289849	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_UyLAvhpRd/
+1587648290421	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648293170	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648295361	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648296470	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648296503	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648297244	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/codergallery/
+1587648301969	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/codergallery/
+1587648328819	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/codergallery/
+1587648329195	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/codergallery/
+1587648329219	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/codergallery/
+1587648329984	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648332665	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648337863	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587648343675	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648344046	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648344093	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_UyH3LAZ5N/
+1587648344751	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648347533	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648349668	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648350489	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648350547	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648351158	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/gamersnsp/
+1587648355831	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/gamersnsp/
+1587648383342	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/gamersnsp/
+1587648384002	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/gamersnsp/
+1587648384021	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/gamersnsp/
+1587648384665	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648387547	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648391838	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1587648396717	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648397093	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648397131	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_Ux6PZANwn/
+1587648397717	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/p/B_UwviIJq4t/
+1587648400679	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/p/B_UwviIJq4t/
+1587648402915	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/p/B_UwviIJq4t/
+1587648403963	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/p/B_UwviIJq4t/
+1587648403995	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/p/B_UwviIJq4t/
+1587648404592	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/comedy.codes/
+1587648409520	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/comedy.codes/
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26884, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-62.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1589627408906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYGFEHq"
+1589627414937	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1589627415814	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1589627415818	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1589627427881	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1589627429786	Marionette	INFO	Listening on port 41757
+1589627429844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589627430006	Marionette	DEBUG	[2147483649] Frame script loaded
+1589627430102	Marionette	DEBUG	[2147483649] Frame script registered
+1589627433493	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1589627438324	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1589627438326	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1589627438358	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for view-source:https://ip4.seeip.org/geoip
+1589627438532	Marionette	DEBUG	[2147483649] Received DOM event pageshow for view-source:https://ip4.seeip.org/geoip
+1589627438895	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for view-source:https://ip4.seeip.org/geoip
+1589627442144	Marionette	DEBUG	[2147483649] Received DOM event pagehide for view-source:https://ip4.seeip.org/geoip
+1589627450252	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://isitdownorjust.me/instagram-com/
+1589627458603	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1589627486540	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://isitdownorjust.me/instagram-com/
+1589627488547	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://isitdownorjust.me/instagram-com/
+1589627496344	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://isitdownorjust.me/instagram-com/
+1589627496357	Marionette	DEBUG	[2147483649] Received DOM event unload for https://isitdownorjust.me/instagram-com/
+1589627496609	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1589627496610	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1589627496611	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1589627496612	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1589627496615	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1589627496616	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1589627496619	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1589627496621	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1589627496623	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1589627496624	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1589627496626	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1589627496628	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1589627496629	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1589627499985	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1589627503662	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1589627515205	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1589627515669	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1589627515763	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1589627516461	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/official_bontus/
+1589627518200	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/official_bontus/
+1589627632272	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/official_bontus/
+1589627635689	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/official_bontus/
+1589627635718	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/official_bontus/
+1589627636656	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/tags/python3/
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15847, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-62.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1589627768337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ZWit7"
+1589627778744	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1589627780998	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:852
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:866
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2386
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2727
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2539
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2120
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:813
+startup()@resource://gre/modules/AddonManager.jsm:2811
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1589627781011	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1589627809153	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1589627814339	Marionette	INFO	Listening on port 45139
+1589627814907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589627815093	Marionette	DEBUG	[2147483649] Frame script loaded
+1589627815220	Marionette	DEBUG	[2147483649] Frame script registered
+1589627820452	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1589627828369	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1589627828413	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1589627828460	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for view-source:https://ip4.seeip.org/geoip
+1589627828884	Marionette	DEBUG	[2147483649] Received DOM event pageshow for view-source:https://ip4.seeip.org/geoip
+1589627834499	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for view-source:https://ip4.seeip.org/geoip
+1589627838086	Marionette	DEBUG	[2147483649] Received DOM event pagehide for view-source:https://ip4.seeip.org/geoip
+1589627845465	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://isitdownorjust.me/instagram-com/
+1589627860341	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1589627869890	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://isitdownorjust.me/instagram-com/
+1589627871863	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://isitdownorjust.me/instagram-com/
+1589627877825	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://isitdownorjust.me/instagram-com/
+1589627877862	Marionette	DEBUG	[2147483649] Received DOM event unload for https://isitdownorjust.me/instagram-com/
+1589627878296	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1589627878299	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1589627878301	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1589627878303	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1589627878305	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1589627878307	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1589627878310	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1589627878319	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1589627878324	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1589627878331	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1589627878333	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1589627878336	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1589627878338	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1589627881445	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1589627884268	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1589627911856	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/accounts/onetap/?next=%2F
+1589627917113	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/accounts/onetap/?next=%2F
+1589627917146	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/accounts/onetap/?next=%2F
+1589627918889	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1589627924340	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/
+1589627924649	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/
+1589627925656	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/
+1589627925756	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/
+1589627926378	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/dev_meyo/
+1589627932892	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/dev_meyo/
+1589627948848	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.instagram.com/dev_meyo/
+1589627951966	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.instagram.com/dev_meyo/
+1589627952020	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.instagram.com/dev_meyo/
+1589627953333	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.instagram.com/explore/tags/python3/
+1589627963261	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.instagram.com/explore/tags/python3/
+[Parent 16096, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /builddir/build/BUILD/firefox-62.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1589627975125	Marionette	INFO	Stopped listening on port 45139
